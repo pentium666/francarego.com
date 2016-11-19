@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<title><?=$title?></title>
+
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet"
 		href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
@@ -19,7 +21,7 @@
 
 		<!-- Francarego stylesheet -->
 		<link rel="stylesheet"
-		href="/css/main.css?v=<?=time();?>"
+		href="/css/main.css"
 		type="text/css">
 
 		<!-- Latest compiled and minified JavaScript -->
