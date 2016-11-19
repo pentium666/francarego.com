@@ -1,13 +1,11 @@
 <div class="container-fluid">
-	<div class="row">
-		<div class="col-sm-4">
-			  <img src="http://i.imgur.com/uUr8sxc.jpg">
+	<?php foreach($rows as $row): ?>
+		<div class="row">
+				<?php foreach($row as $image): ?>
+				  	<div class="col-sm-4">
+						<img src="<?=$image?>">
+					</div>
+				<?php endforeach; ?>
 		</div>
-		<div class="col-sm-4">
-			  <img src="http://i.imgur.com/PgSUoRg.jpg">
-		</div>
-		<div class="col-sm-4">
-			  <img src="http://i.imgur.com/aF12mXm.jpg">
-		</div>
-	</div>
+	<?php endforeach; ?>
 </div>
