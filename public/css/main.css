@@ -1,4 +1,8 @@
 body {
+	height: 100%;
+	width: 100%;
+	background-image: url('../images/dank420.png');
+	background-size: cover;
 	padding-top: 65px;
 	font-family: "Comic Neue";
 }
