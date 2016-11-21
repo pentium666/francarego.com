@@ -9,7 +9,7 @@
 		integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
 		crossorigin="anonymous">
 
-		<!-- Responsice design -->
+		<!-- Responsive design -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
 
@@ -29,15 +29,23 @@
 		integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
 		crossorigin="anonymous">
 		</script>
-
-		<div id="top">
-			<nav class="navbar navbar-default">
-				  <div class="container-fluid">
-					    <div class="jumbotron text-center" id="sitename">
-							<h1 id="sitename">French King Photography</h1>
-						</div>
-				  </div>
-			</nav>
-		</div>
 	</head>
 	<body>
+		<nav class="navbar navbar-default navbar-fixed-top">
+			  	<div class="container">
+				    <div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+								<span class="icon-bar"></span>
+            					<span class="icon-bar"></span>
+            					<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" id="sitename" href="http://frenchkingphoto.com">French King Photography</a>
+					</div>
+					<div class="navbar-collapse collapse" id="navbar">
+						<ul class="nav navbar-nav navbar-right">
+							<li><a href="about.php">About</a></li>
+							<li><a href="book.php">Book a Session</a></li>
+						</ul>
+					</div>
+				</div>
+		</nav>
