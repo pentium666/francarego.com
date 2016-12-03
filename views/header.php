@@ -61,8 +61,8 @@ languages.
 	</head>
 	<body>
 		<nav class="navbar navbar-default navbar-fixed-top">
-			  	<div class="container">
-				    <div class="navbar-header">
+			  	<div class="container" id="navbar">
+				    <div class="navbar-header>
 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 								<span class="icon-bar"></span>
             					<span class="icon-bar"></span>
