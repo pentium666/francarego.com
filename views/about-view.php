@@ -7,7 +7,19 @@
 				<img src="/images/anonymous1.png" class="img-fluid">
 			</div>
 			<div class="col-xs-8 col-sm-10">
-
+				<h4><span class="redacted"><?=htmlspecialchars("----------")?></span> <span class="redacted"><?=htmlspecialchars("----")?></span></h>
+				<br>
+				<h4>Lead Photographer, Director of Hacking Operations</h4>
+			</div>
+	</div>
+	<div class="row">
+			<div class="col-xs-3 col-sm-2">
+				<img src="/images/anonymous2.png" class="img-fluid">
+			</div>
+			<div class="col-xs-8 col-sm-10">
+				<h4><span class="redacted"><?=htmlspecialchars("------")?></span> <span class="redacted"><?=htmlspecialchars("------")?></span></h>
+				<br>
+				<h4>VP of Customer Relations, Cheif Marxist Officer</h4>
 			</div>
 	</div>
 </div>
