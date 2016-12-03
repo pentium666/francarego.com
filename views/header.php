@@ -3,6 +3,8 @@
 	<head>
 		<title><?=$title?></title>
 
+		<meta charset="UTF-8">
+
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet"
 		href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
@@ -13,11 +15,20 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
 
+		<!-- jquery -->
+		<script
+  		src="https://code.jquery.com/jquery-3.1.1.min.js"
+		integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+		crossorigin="anonymous"></script>
+
 		<!-- Optional theme -->
 		<link rel="stylesheet"
 		href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
 		integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp"
 		crossorigin="anonymous">
+
+		<!-- Google fonts -->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Quicksand">
 
 		<!-- Francarego stylesheet -->
 		<link rel="stylesheet"
@@ -39,7 +50,7 @@
             					<span class="icon-bar"></span>
             					<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" id="sitename" href="http://frenchkingphoto.com">French King Photography</a>
+						<a class="navbar-brand" id="sitename" href="/">French King Photography</a>
 					</div>
 					<div class="navbar-collapse collapse" id="navbar">
 						<ul class="nav navbar-nav navbar-right">

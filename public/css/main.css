@@ -1,5 +1,10 @@
 body {
 	padding-top: 65px;
+	font-family: "Quicksand";
+}
+
+h1 {
+	font-weight: bold;
 }
 
 img {
@@ -11,4 +16,19 @@ img {
 #sitename {
 	font-family: "Zapfino";
 	font-size: 12px;
+}
+
+.avatar {
+
+}
+
+.default-content {
+	margin-left: 4%;
+	margin-right: 4%;
+}
+
+.page-header {
+	margin-bottom: 14px;
+	margin-top: -18px;
+	padding-bottom: 0px;
 }
