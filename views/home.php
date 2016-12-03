@@ -3,7 +3,7 @@
 		<div class="row">
 				<?php foreach($row as $image): ?>
 				  	<div class="col-sm-4">
-						<img src="<?=$image?>">
+						<img src="<?=$image?>" alt="Pure Art">
 					</div>
 				<?php endforeach; ?>
 		</div>

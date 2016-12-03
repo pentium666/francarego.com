@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
+
 	<head>
 		<title><?=$title?></title>
 
 		<meta charset="UTF-8">
-
 <!--
 A spectre is haunting Europe – the spectre of communism. All the powers of old Europe have
 entered into a holy alliance to exorcise this spectre: Pope and Tsar, Metternich and Guizot,
@@ -61,8 +61,8 @@ languages.
 	</head>
 	<body>
 		<nav class="navbar navbar-default navbar-fixed-top">
-			  	<div class="container" id="navbar">
-				    <div class="navbar-header>
+			  	<div class="container">
+				    <div class="navbar-header">
 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 								<span class="icon-bar"></span>
             					<span class="icon-bar"></span>
