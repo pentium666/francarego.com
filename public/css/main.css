@@ -1,9 +1,8 @@
-body {
-	padding-top: 55px;
+html, body {
+	padding-top: 30px;
 	font-family: "Quicksand";
 	color: #333333;
 	background-color: #f5f0e9;
-	height: 100%;
 }
 
 h1 {
@@ -12,6 +11,10 @@ h1 {
 
 h4 {
 	font-size: 125%;
+}
+
+a {
+	color: #52a7b7;
 }
 
 img {
@@ -26,30 +29,16 @@ img {
 	font-size: 12px;
 }
 
+#main-content {
+	width: 100%;
+	min-height: 100%;
+}
+
 .footer {
-	position: relative;
-    bottom: 0;
-	left: 0;
     width: 100%;
 	line-height: 33px;
     background-color: #333333;
 	color: #f5f0e9;
-}
-
-.footer > .container > p, ul, a{
-	margin: 0 0 0px;
-	padding: 0 0 0px;
-}
-
-.footer > .container > p {
-	height: 35px;
-}
-
-#footer-content {
-	padding-bottom: 10px;
-	padding-top: 10px;
-	padding-left: 0px;
-	margin-left: 4%;
 }
 
 .navbar-custom {

@@ -11,7 +11,7 @@
 			<div class="navbar-collapse collapse" id="navbar">
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="about.php">About Us</a></li>
-					<li><a href="book.php">Book a Session</a></li>
+					<li><a href="booking.php">Book a Session</a></li>
 				</ul>
 			</div>
 		</div>
