@@ -9,4 +9,10 @@ function render($page, $variables = ["title" => "French King Photography"])
 		echo("File {$page} does not exist.");
 	}
 }
+
+//gets root of project
+function root()
+{
+	return dirname($_SERVER['DOCUMENT_ROOT'], 1);
+}
 ?>

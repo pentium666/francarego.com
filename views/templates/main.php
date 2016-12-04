@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-	<?php $viewpath = "/vagrant/photos/views"; ?>
+	<?php $viewpath = root()."/views"; ?>
 	<head>
 		<?php require("{$viewpath}/header.php"); ?>
 	</head>
