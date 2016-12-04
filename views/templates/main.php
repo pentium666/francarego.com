@@ -13,5 +13,5 @@
 			<?php require("{$viewpath}/footer.php"); ?>
 		</div>
 	</body>
-	<?php require("/vagrant/photos/public/js/scripts.php"); ?>
+	<?php require("{$viewpath}/js/scripts.php"); ?>
 </html>
