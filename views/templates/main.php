@@ -13,5 +13,5 @@
 			<?php require("{$viewpath}/footer.php"); ?>
 		</div>
 	</body>
-	<?php require("{$viewpath}/js/scripts.php"); ?>
+	<?php require(root()."/public/js/scripts.php"); ?>
 </html>
