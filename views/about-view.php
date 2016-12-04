@@ -1,6 +1,6 @@
 <div class="container-fluid default-content">
 	<div class="page-header">
-		<h1>Our Team</h1>
+		<h1 class="page-title">Our Team</h1>
 	</div>
 	<div class="row bio">
 			<div class="col-xs-3 col-sm-2">
