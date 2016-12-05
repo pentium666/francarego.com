@@ -9,9 +9,7 @@
 		<div class="container" id="main-content">
 			<?php require("{$viewpath}/{$page}"); ?>
 		</div>
-		<footer class="footer" id="footer">
-			<?php require("{$viewpath}/footer.php"); ?>
-		</div>
+		<?php require("{$viewpath}/footer.php"); ?>
 	</body>
 	<?php require(root()."/public/js/scripts.php"); ?>
 </html>
