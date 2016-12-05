@@ -25,10 +25,6 @@ languages.
 		integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
 		crossorigin="anonymous">
 
-		<!-- Responsive design -->
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
-
 		<!-- jquery -->
 		<script
   		src="https://code.jquery.com/jquery-3.1.1.min.js"
