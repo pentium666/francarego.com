@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<?php require("{$viewpath}/navbar.php"); ?>
-		<div class="container" id="main-content">
+		<div id="main-content">
 			<?php require("{$viewpath}/{$page}"); ?>
 		</div>
 		<?php require("{$viewpath}/footer.php"); ?>
