@@ -1,4 +1,4 @@
-	<footer class="footer" id="footer" style="visibility: hidden;">
+	<footer class="footer" id="footer">
 		<div class="container" id="footer-content">
 			<a href="https://www.instagram.com/frenchkingphoto/">Instagram</a>
 			<p><?=htmlspecialchars("©2016 French King Photography")?></p>

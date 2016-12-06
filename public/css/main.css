@@ -49,8 +49,8 @@ img {
 }
 
 .footer {
-	position: absolute;
-	bottom: 0;
+	/*position: absolute;
+	bottom: 0;*/
     width: 100%;
 	line-height: 33px;
     background-color: #333333;
@@ -80,8 +80,6 @@ img {
 }
 
 .default-content {
-	margin-left: 4%;
-	margin-right: 4%;
 }
 
 .page-header {

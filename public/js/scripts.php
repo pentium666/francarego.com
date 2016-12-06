@@ -10,15 +10,15 @@ integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7T
 crossorigin="anonymous">
 </script>
 
-<script type="text/javascript">
-    window.onload = function() {
-    	if ($(window).height() > $("html").height()) { //sets footer position
-    		document.getElementById("footer").style.position = "absolute";
-    		document.getElementById("footer").style.bottom = 0;
-    	}
-    	else {
-            document.getElementById("footer").style.position = "inherit";
-    	}
-        document.getElementById("footer").style.visibility = "visible";
-    }
-</script>
+<!-- <script type="text/javascript">
+    // window.onload = function() {
+    // 	if ($(window).height() > $("html").height()) { //sets footer position
+    // 		document.getElementById("footer").style.position = "absolute";
+    // 		document.getElementById("footer").style.bottom = 0;
+    // 	}
+    // 	else {
+    //         document.getElementById("footer").style.position = "inherit";
+    // 	}
+    //     document.getElementById("footer").style.visibility = "visible";
+    // }
+</script> -->
