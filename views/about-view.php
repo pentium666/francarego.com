@@ -3,8 +3,9 @@
 		<h1 class="page-title">About Us</h1>
 	</div>
 		<p class="col-sm-6">
-		French King Photography is a Photography and Art project located in the foothills of the Berkshire Mountains. We were founded in 2001 by [name redacted] and ever since have been providing high quality photography services to Western Massachusetts.<br><br>
-		Services that we have provided in the past include senior portraits, stock photos, wedding photography, and reconnaissance.
+		French King Photography is a Photography and Art project located in the foothills of the Berkshire Mountains. We were founded in 2001 by [name redacted] and ever since have been dedicated to taking high quality photos and promoting world communism.<br><br>
+		Services that we provide include senior portraits, stock photos, wedding photography, and Instagram consulting. We have access to the latest generation of Instagram filters and effects and use them to our full ability. Our specialities include tilt-shift, saturation-boost, and cliché photos of teenagers with a slightly out of focus woodland in the background.<br><br>
+		Over the years we have had many high-profile clients, inluding members of the hacker group <i>Anonymous</i>, the Intel Corporation, and Architects <?=htmlspecialchars("&")?> Engineers for 9/11 Truth.
 		</p>
 		<img src="http://i.imgur.com/SIdxRZ5.jpg" alt="French King Bridge" style="padding-top: 0px" class="img-fluid col-sm-6">
 	<div class="container-fluid default-content">
