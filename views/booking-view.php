@@ -8,14 +8,12 @@
 			<thead>
 				<tr>
 					<td class="empty-cell" style="border-top-style: hidden; border-left-style:hidden"></td>
-					<th>Economy</th>
 					<th>Gold</th>
 					<th>Platinum</th>
 					<th>Kush</th>
 				</tr>
 				<tr>
 					<td class="empty-cell" style="border-top-style: hidden; border-left-style:hidden"></td>
-					<th>$5.00</th>
 					<th>$9.11</th>
 					<th>$13.13</th>
 					<th>$420</th>
@@ -26,18 +24,15 @@
 					<td>☭</td>
 					<td>☭</td>
 					<td>☭</td>
-					<td>☭</td>
 				</tr>
 				<tr>
 					<th scope="row">Super Saturation</th>
 					<td>☭</td>
 					<td>☭</td>
 					<td>☭</td>
-					<td>☭</td>
 				</tr>
 				<tr>
 					<th scope="row">Vertical Tilt-Shift</th>
-					<td></td>
 					<td>☭</td>
 					<td>☭</td>
 					<td>☭</td>
@@ -45,20 +40,17 @@
 				<tr>
 					<th scope="row">Black & White</th>
 					<td></td>
-					<td></td>
 					<td>☭</td>
 					<td>☭</td>
 				</tr>
 				<tr>
 					<th scope="row">HDR Tone Mapping</th>
 					<td></td>
-					<td></td>
 					<td>☭</td>
 					<td>☭</td>
 				</tr>
 				<tr>
 					<th scope="row">Certified Dank</th>
-					<td></td>
 					<td></td>
 					<td></td>
 					<td>☭</td>
