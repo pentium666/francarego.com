@@ -24,6 +24,14 @@ img {
 	padding-bottom: 12px;
 }
 
+#navbar-button {
+	border-style: hidden;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+	background-color: #FFF;
+}
+
 #sitename {
 	font-family: "Zapfino";
 	font-size: 12px;
@@ -36,6 +44,10 @@ img {
 	padding-right: 0px;
 	padding-left: 6px;
 	padding-right: 6px;
+}
+
+thead * {
+	text-align: center;
 }
 
 .col-image {
@@ -173,10 +185,7 @@ img {
 .navbar-default .navbar-toggle {
     border-color: #DDD;
 }
-.navbar-default .navbar-toggle:hover,
-.navbar-default .navbar-toggle:focus {
-    background-color: #DDD;
-}
+
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #CCC;
 }
