@@ -28,6 +28,40 @@
 					<td>☭</td>
 					<td>☭</td>
 				</tr>
+				<tr>
+					<th scope="row">Super Saturation</th>
+					<td>☭</td>
+					<td>☭</td>
+					<td>☭</td>
+					<td>☭</td>
+				</tr>
+				<tr>
+					<th scope="row">Vertical Tilt-Shift</th>
+					<td></td>
+					<td>☭</td>
+					<td>☭</td>
+					<td>☭</td>
+				</tr>
+				<tr>
+					<th scope="row">Black & White</th>
+					<td></td>
+					<td></td>
+					<td>☭</td>
+					<td>☭</td>
+				</tr>
+				<tr>
+					<th scope="row">HDR Tone Mapping</th>
+					<td></td>
+					<td></td>
+					<td>☭</td>
+					<td>☭</td>
+				</tr>
+				<tr>
+					<th scope="row">Certified Dank</th>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>☭</td>
 			</tbody>
 		</table>
 	</div>
