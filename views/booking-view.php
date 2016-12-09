@@ -2,7 +2,7 @@
 	<div class="page-header">
 		<h1 class="page-title"><?=htmlspecialchars("Book Your Session with French King today")?></h1>
 	</div>
-	<div class="container">
+	<div class="container" id="pricing">
 		<h2>Pricing</h2>
 		<table class="table price-table table-bordered">
 			<thead>
@@ -18,7 +18,7 @@
 					<th>$5.00</th>
 					<th>$9.11</th>
 					<th>$13.13</th>
-					<th>$420.00</th>
+					<th>$420</th>
 			</thead>
 			<tbody>
 				<tr>
@@ -64,5 +64,10 @@
 					<td>☭</td>
 			</tbody>
 		</table>
+	</div>
+	<div class="container">
+		<img src="http://i.imgur.com/Umvawzu.jpg" class="img-fluid">
+		<h2>Schedule an Appoitment</h2>
+		<p>Ready to book your unforgettable experience with French King Photography? Just send us a direct message on <a href="https://www.instagram.com/frenchkingphoto/">instagram</a>.</p>
 	</div>
 </div>
