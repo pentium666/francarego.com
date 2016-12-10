@@ -1,4 +1,5 @@
 <div class="container-fluid">
+	<?php if($christmas == true) {require("christmas-promo.php");} ?>
 	<?php foreach($rows as $row): ?>
 		<div class="row">
 				<?php foreach($row as $image): ?>
