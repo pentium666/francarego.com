@@ -59,7 +59,7 @@
 	</div>
 	<div class="container">
 		<img src="http://i.imgur.com/Umvawzu.jpg" class="img-fluid">
-		<h2>Schedule an Appoitment</h2>
+		<h2>Schedule an Appointment</h2>
 		<p>Ready to book your unforgettable experience with French King Photography? Just send us a direct message on <a href="https://www.instagram.com/frenchkingphoto/">instagram</a>.</p>
 	</div>
 </div>
