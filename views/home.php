@@ -1,12 +1,9 @@
 <div class="container-fluid">
-	<?php if($christmas == true) {require("christmas-promo.php");} ?>
-	<?php foreach($rows as $row): ?>
-		<div class="row">
-				<?php foreach($row as $image): ?>
-				  	<div class="col-sm-4 col-image">
-						<img src="<?=$image?>" alt="Pure Art" class="feature-image">
-					</div>
-				<?php endforeach; ?>
-		</div>
-	<?php endforeach; ?>
+	<h1 class="site-title"> Welcome to French King Photography</h1>
 </div>
+<script>
+	document.getElementsByTagName("html")[0].style = "height: 100%";
+	document.getElementsByTagName("body")[0].style = "height: 100%";
+	document.getElementsByTagName("html")[0].id = "homepage";
+	document.getElementsByTagName("body")[0].id = "homepage";
+</script>

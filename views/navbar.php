@@ -12,6 +12,8 @@
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="about.php">About Us</a></li>
 					<li><a href="booking.php">Book a Session</a></li>
+					<li><a href="index.php?p=gallery">Gallery</a></li>
+					<li><a href="bees.php">Bee Movie Script</a></li>
 				</ul>
 			</div>
 		</div>

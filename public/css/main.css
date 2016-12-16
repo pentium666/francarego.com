@@ -24,6 +24,34 @@ img {
 	padding-bottom: 12px;
 }
 
+#homepage{
+	background-image: url("/images/background.png");
+	color: #bfbcbc;
+	background-repeat: no-repeat;
+	background-position: left;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#homepage .footer {
+	position: absolute;
+	bottom: 0;
+}
+
+@media (max-width: 700px) {
+	#christmas {
+		font-size: 30px;
+	}
+}
+
+@media (max-width: 590px) {
+	#christmas {
+		font-size: 20px;
+	}
+}
+
 #navbar-button {
 	border-style: hidden;
 }
