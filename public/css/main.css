@@ -127,6 +127,10 @@ thead * {
     color:#eeeeee;
 }
 
+.navbar-custom .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: transparent;
+}
+
 .avatar {
 
 }
