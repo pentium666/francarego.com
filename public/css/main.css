@@ -24,18 +24,19 @@ img {
 	padding-bottom: 12px;
 }
 
-#homepage{
-	background-image: url("/images/background.png");
+.homepage {
+	background: url("/images/background.png") no-repeat left top fixed;
 	color: #bfbcbc;
-	background-repeat: no-repeat;
-	background-position: left;
+	/*background-repeat: no-repeat;
+	background-position: left;*/
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	/*background-attachment: scroll;*/
 }
 
-#homepage .footer {
+.homepage .footer {
 	position: absolute;
 	bottom: 0;
 }
