@@ -24,6 +24,43 @@ img {
 	padding-bottom: 12px;
 }
 
+.homepage {
+	background: url("/images/background.png") no-repeat left center fixed;
+	color: #bfbcbc;
+	/*background-repeat: no-repeat;
+	background-position: left;*/
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	/*background-attachment: scroll;*/
+}
+
+.homepage .footer {
+	position: absolute;
+	bottom: 0;
+}
+
+@media (max-width: 700px) {
+	#christmas {
+		font-size: 30px;
+	}
+}
+
+@media (max-width: 590px) {
+	#christmas {
+		font-size: 20px;
+	}
+}
+
+#navbar-button {
+	border-style: hidden;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+	background-color: #FFF;
+}
+
 #sitename {
 	font-family: "Zapfino";
 	font-size: 12px;
@@ -38,6 +75,10 @@ img {
 	padding-right: 6px;
 }
 
+thead * {
+	text-align: center;
+}
+
 .col-image {
 	padding-left: 6px;
 	padding-right: 6px;
@@ -48,14 +89,25 @@ img {
 	padding-top: 0px;
 }
 
+.price-table td {
+	text-align: center;
+}
+
 .footer {
-	position: absolute;
-	bottom: 0;
+	/*position: absolute;
+	bottom: 0;*/
     width: 100%;
 	line-height: 33px;
     background-color: #333333;
 	color: #f5f0e9;
 }
+
+.table-image {
+	display: block;
+	height: auto;
+}
+
+
 
 .navbar-custom {
     background-color:#229922;
@@ -75,13 +127,15 @@ img {
     color:#eeeeee;
 }
 
+.navbar-custom .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: transparent;
+}
+
 .avatar {
 
 }
 
 .default-content {
-	margin-left: 4%;
-	margin-right: 4%;
 }
 
 .page-header {
@@ -164,10 +218,7 @@ img {
 .navbar-default .navbar-toggle {
     border-color: #DDD;
 }
-.navbar-default .navbar-toggle:hover,
-.navbar-default .navbar-toggle:focus {
-    background-color: #DDD;
-}
+
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #CCC;
 }
