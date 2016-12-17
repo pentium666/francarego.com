@@ -41,6 +41,25 @@ img {
 	bottom: 0;
 }
 
+.btn-transparent {
+	border-radius: 0px;
+	border-style: solid;
+	border-color: #bfbcbc;
+	border-width: 2px;
+	background-color: rgba(191, 188, 188, 0.18);
+	background-image: none;
+}
+
+.btn-transparent:hover {
+	color: #bfbcbc;
+	background-color: rgba(191, 188, 188, 0.32);
+}
+
+.promo-box {
+	border-style: groove;
+	display:inline-block;
+}
+
 @media (max-width: 700px) {
 	#christmas {
 		font-size: 30px;
