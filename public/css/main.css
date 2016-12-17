@@ -24,20 +24,40 @@ img {
 	padding-bottom: 12px;
 }
 
-#homepage{
-	background-image: url("/images/background.png");
+.homepage {
+	background: url("/images/background.png") no-repeat left center fixed;
 	color: #bfbcbc;
-	background-repeat: no-repeat;
-	background-position: left;
+	/*background-repeat: no-repeat;
+	background-position: left;*/
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	/*background-attachment: scroll;*/
 }
 
-#homepage .footer {
+.homepage .footer {
 	position: absolute;
 	bottom: 0;
+}
+
+.btn-transparent {
+	border-radius: 0px;
+	border-style: solid;
+	border-color: #bfbcbc;
+	border-width: 2px;
+	background-color: rgba(191, 188, 188, 0.18);
+	background-image: none;
+}
+
+.btn-transparent:hover {
+	color: #bfbcbc;
+	background-color: rgba(191, 188, 188, 0.32);
+}
+
+.promo-box {
+	border-style: groove;
+	display:inline-block;
 }
 
 @media (max-width: 700px) {
@@ -72,6 +92,10 @@ img {
 	padding-right: 0px;
 	padding-left: 6px;
 	padding-right: 6px;
+}
+
+.form-label {
+	text-align: right;
 }
 
 thead * {
@@ -124,6 +148,10 @@ thead * {
 }
 .navbar-custom .navbar-brand {
     color:#eeeeee;
+}
+
+.navbar-custom .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: transparent;
 }
 
 .avatar {
