@@ -6,33 +6,33 @@
 		<div class="form-group row">
 			<label for="inputFirstName" class="col-sm-2 col-form-label form-label">First Name</label>
 			<div class="col-sm-3">
-				<input type="text" class="form-control" id="inputFistName">
+				<input type="text" class="form-control" id="inputFistName" name="firstname">
 			</div>
 			<label for="inputLastName" class="col-sm-2 col-form-label form-label">Last Name</label>
 			<div class="col-sm-3">
-				<input type="text" class="form-control" id="inputLastName">
+				<input type="text" class="form-control" id="inputLastName" name="lastname">
 			</div>
 		</div>
 		<div class="form-group row">
 			<label for="inputAddress1" class="col-sm-2 col-form-label form-label">Address</label>
 			<div class="col-sm-8">
-				<input type="text" class="form-control" id="inputAddress1">
+				<input type="text" class="form-control" id="inputAddress1" name="address1">
 			</div>
 		</div>
 		<div class="form-group row">
 			<div class="col-sm-2"></div>
 			<div class="col-sm-8">
-				<input type="text" class="form-control" id="inputAddress2">
+				<input type="text" class="form-control" id="inputAddress2" name="address2">
 			</div>
 		</div>
 		<div class="form-group row">
 			<label for="inputCity" class="col-sm-2 col-form-label form-label">City</label>
 			<div class="col-sm-4">
-				<input type="text" class="form-control" id="inputCity">
+				<input type="text" class="form-control" id="inputCity" name="city">
 			</div>
 			<label for="inputState" class="col-sm-2 col-form-label form-label">State/Territory</label>
 			<div class="col-sm-2">
-				<select class="form-control" id="inputState">
+				<select class="form-control" id="inputState" name="state">
 					<option></option>
 					<?php foreach($states as $state): ?>
 						<option><?=$state?></option>
@@ -43,7 +43,7 @@
 		<div class="form-group row">
 			<label for="inputZip" class="col-sm-2 col-form-label form-label">Zip Code</label>
 			<div class="col-sm-2">
-				<input type="text" class="form-control" id="inputZip">
+				<input type="text" class="form-control" id="inputZip" name="zipcode">
 			</div>
 			<div class="col-sm-4"></div>
 			<div class="col-sm-2">
