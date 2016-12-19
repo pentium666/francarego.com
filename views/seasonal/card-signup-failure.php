@@ -1,4 +1,4 @@
-<h1>Your card will arrive shortly</h1>
+<h1><span class="error">You are not eligible to reicieve a Christmas card🙁</span></h1>
 
 <script>
 	document.getElementsByTagName("html")[0].style = "height: 100%; min-height: 100%;";

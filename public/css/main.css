@@ -5,6 +5,10 @@ html, body {
 	background-color: #f5f0e9;
 }
 
+.error {
+	background-color: red;
+}
+
 h1 {
 	font-weight: bold;
 }
