@@ -56,4 +56,9 @@ function render($page, $variables = ["title" => "French King Photography"])
 		echo("File {$page} does not exist.");
 	}
 }
+
+function message($text)
+{
+	require(root()."/views/templates/message.php");
+}
 ?>
