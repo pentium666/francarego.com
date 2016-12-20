@@ -5,6 +5,10 @@ html, body {
 	background-color: #f5f0e9;
 }
 
+.error {
+	background-color: red;
+}
+
 h1 {
 	font-weight: bold;
 }
@@ -92,6 +96,10 @@ img {
 	padding-right: 0px;
 	padding-left: 6px;
 	padding-right: 6px;
+}
+
+.form-label {
+	text-align: right;
 }
 
 thead * {
