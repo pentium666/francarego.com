@@ -36,6 +36,7 @@ languages.
 
 		<!-- Google fonts -->
 		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Quicksand">
+		<link href="https://fonts.googleapis.com/css?family=Italianno" rel="stylesheet">
 
 		<!-- Francarego stylesheet -->
 		<link rel="stylesheet"
