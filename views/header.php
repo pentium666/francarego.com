@@ -1,6 +1,6 @@
-		<title><?=$title?></title>
+<title><?=$title?></title>
 
-		<meta charset="UTF-8">
+<meta charset="UTF-8">
 <!--
 A spectre is haunting Europe – the spectre of communism. All the powers of old Europe have
 entered into a holy alliance to exorcise this spectre: Pope and Tsar, Metternich and Guizot,
@@ -18,27 +18,27 @@ To this end, Communists of various nationalities have assembled in London and sk
 following manifesto, to be published in the English, French, German, Italian, Flemish and Danish
 languages.
 -->
-		<link rel="shortcut icon" href ="favicon.ico">
+<link rel="shortcut icon" href ="favicon.ico">
 
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet"
-		href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-		integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
-		crossorigin="anonymous">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet"
+href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+crossorigin="anonymous">
 
-		<!-- Optional theme -->
-		<link rel="stylesheet"
-		href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-		integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp"
-		crossorigin="anonymous">
+<!-- Optional theme -->
+<link rel="stylesheet"
+href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp"
+crossorigin="anonymous">
 
-		<!-- Google fonts -->
-		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Quicksand">
-		<link href="https://fonts.googleapis.com/css?family=Italianno" rel="stylesheet">
+<!-- Google fonts -->
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Quicksand">
+<link href="https://fonts.googleapis.com/css?family=Italianno" rel="stylesheet">
 
-		<!-- Francarego stylesheet -->
-		<link rel="stylesheet"
-		href="/css/main.css"
-		type="text/css">
+<!-- Francarego stylesheet -->
+<link rel="stylesheet"
+href="/css/main.css"
+type="text/css">
