@@ -2,7 +2,7 @@
 
 require("../config/config.php");
 
-$christmas = 1;
+$christmas = 0;
 
 $json = file_get_contents("data/images.json"); //read links to images
 $rows = json_decode($json, true); //decode JSON to array
